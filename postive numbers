@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+voidmain()
+{
+int i=-2;
+if(i>=o){
+printf("\d postive");
+}
+else{
+printf("\d negative");
+}
+getch();
+}
